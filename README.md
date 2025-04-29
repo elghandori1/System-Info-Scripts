@@ -20,7 +20,7 @@ This repository contains PowerShell and Bash scripts to display detailed system 
 ## 📥 Download & Usage
  ### 🪟 Windows :
  **Download:** <br>
- ```git clone https://github.com/elghandori1/System-Info-Scripts/blob/main/system-info.ps1``` <br>
+```Invoke-WebRequest -Uri "https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.ps1" -OutFile "system-info.ps1"1``` <br>
 <i>(or download system-info.ps1 manually from the repo)</i>
 
 **Run the Scrip:** <br>
@@ -32,16 +32,13 @@ This repository contains PowerShell and Bash scripts to display detailed system 
  ### 🐧 Linux / macOS : 
  
  **Download:** <br>
-```git clone https://github.com/elghandori1/System-Info-Scripts/blob/main/system-info.sh``` <br>
-
- or use wget to download directly: **wget** <br>
-```wget https://raw.githubusercontent.com/your-username/system-info-scripts/main/system-info.sh -O /home/yourname/systemInfosLinux/system-info.sh```
+```wget https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.ps1```
     
 **Run the Scrip:** <br>
   1 - Open a terminal <br>
-  2 - Navigate to the folder where system-info.sh is saved :(e,g: cd /home/yourname/systemInfosLinux) <br>
-   3 - Make the script executable :  ```chmod +x system-info.sh``` <br>
-   4 - Run the script: ```./system-info.sh``` <br>
+  2 - Navigate to the folder where system-info.sh is saved :(e,g: cd /home/systemInfosLinux) <br>
+  3 - Make the script executable :  ```chmod +x system-info.sh``` <br>
+  4 - Run the script: ```./system-info.sh``` <br>
     
 ### 🎉 Done!
   Run the script and check your system details effortlessly. 🚀
