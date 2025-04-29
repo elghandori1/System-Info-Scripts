@@ -20,7 +20,7 @@ This repository contains PowerShell and Bash scripts to display detailed system 
 ## 📥 Download & Usage
  ### 🪟 Windows :
  **Download:** <br>
-```Invoke-WebRequest -Uri "https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.ps1" -OutFile "system-info.ps1"1``` <br>
+```Invoke-WebRequest -Uri "https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.ps1" -OutFile "system-info.ps1"``` <br>
 <i>(or download system-info.ps1 manually from the repo)</i>
 
 **Run the Scrip:** <br>
@@ -32,7 +32,7 @@ This repository contains PowerShell and Bash scripts to display detailed system 
  ### 🐧 Linux / macOS : 
  
  **Download:** <br>
-```wget https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.ps1```
+```wget https://raw.githubusercontent.com/elghandori1/System-Info-Scripts/main/system-info.sh```
     
 **Run the Scrip:** <br>
   1 - Open a terminal <br>
