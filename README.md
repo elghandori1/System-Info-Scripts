@@ -4,7 +4,7 @@ A simple cross-platform script to display detailed system configuration informat
 ![Windows](https://img.shields.io/badge/Windows-PowerShell-blue) ![Linux](https://img.shields.io/badge/Linux-Bash-green) ![macOS](https://img.shields.io/badge/macOS-Bash-lightgrey)
 
 ## 📝 Description
-This repository contains PowerShell and Bash scripts to display detailed system information for Windows and Linux/nacOS systems.
+This repository contains PowerShell and Bash scripts to display detailed system information for Windows and Linux/macOS systems.
 
 **Output includes:** <br>
 ✔ Operating System
